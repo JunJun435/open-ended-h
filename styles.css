@@ -1,0 +1,14 @@
+h1 {
+  font-size: 21px;
+  font-style: bold
+}
+p {
+  font-size: 14px;
+}
+a {
+text-decoration: none;
+color: green
+}
+a:hover {
+  text-decoration: underline;
+}
